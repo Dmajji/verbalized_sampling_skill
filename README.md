@@ -5,7 +5,7 @@
 
 A prompting technique that forces LLMs to sample from their full output distribution — not just the safest, most expected answer.
 
-> Based on ["Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity"](https://arxiv.org/abs/your-link) — Jiayi Zhang. Read the full writeup on [Substack](https://dheemanthmajji.substack.com/p/why-all-our-llms-sound-the-same-and).
+> Based on ["Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity"](https://arxiv.org/pdf/2510.01171) — Jiayi Zhang. Read the full writeup on [Substack](https://dheemanthmajji.substack.com/p/why-all-our-llms-sound-the-same-and).
 
 ---
 
